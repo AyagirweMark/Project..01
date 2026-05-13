@@ -36,3 +36,25 @@ font-weight: bold;
 nav a:hover {
 text-decoration: underline;
 }
+
+/*HERO SECTION*/
+.hero {
+  background: url('Image 2026-05-06 at 10.37.31.jpeg');
+  color: rgb(255, 255, 255);
+  text-align: center;
+  padding: 120px 20px;
+}
+
+.hero h2{
+  font-size: 42px;
+}
+
+.hero p {
+  margin-top: 10px;
+}
+
+/* BUTTON */
+
+.btn {
+  
+}
